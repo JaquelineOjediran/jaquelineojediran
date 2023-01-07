@@ -36,4 +36,4 @@
 </div>
 
 
-![Snake animation](https://github.com/jaquelineojediran/jaquelineojediran/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JaquelineOjediran/jaquelineojediran/blob/output/github-contribution-grid-snake.svg)
